@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hola, soy Ryan👋
 
-<!--
-**13k13k13/13k13k13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="banner.jpg">
+Sobre mi:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Bachillerato Militarizado Reynosa
+- 🌱 I’m currently learning Programming
+- 👯 I’m looking to collaborate on ..
+- 🤔 I’m looking for help with My teachers
+- 💬 Ask me about Html code
+- 📫 How to reach me: Gmail
+- 😄 Pronouns: Marlon
+- ⚡ Fun fact: ..
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

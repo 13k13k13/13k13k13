@@ -1,4 +1,6 @@
-## Hola, soy Ryan👋
+<div align="center">
+<h1>Hola, soy <a href='nadaxd'>Ryan</a>👋</h1>
+</div>
 
 <img src="banner.jpg">
 Sobre mi:

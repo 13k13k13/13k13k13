@@ -14,14 +14,12 @@
 
 Sobre mi:
 
-- 🔭 I’m currently working on Bachillerato Militarizado Reynosa
+- 🔭 I’m currently working on: Bachillerato Militarizado Reynosa
 - 🌱 I’m currently learning Programming
-- 👯 I’m looking to collaborate on ..
-- 🤔 I’m looking for help with My teachers
-- 💬 Ask me about Html code
-- 📫 How to reach me: Gmail
+- 💬 Ask me about: Html code
+- 📫 How to reach me: ryanfernandomaldonadofuentes@gmail.com
 - 😄 Pronouns: Marlon
-- ⚡ Fun fact: ..
+
 
 
 <h3 align="left">Languages and Tools:</h3>
